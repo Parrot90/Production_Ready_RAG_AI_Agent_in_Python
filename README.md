@@ -1,4 +1,4 @@
-# Production-Ready RAG AI Agent in Python
+RAG AI Agent in Python
 
 Production-Ready Retrieval-Augmented Generation (RAG) AI Agent in Python
 This repository contains a production-oriented reference implementation of a Retrieval-Augmented Generation (RAG) AI agent built in Python. It's designed to serve as a practical starting point for building, deploying, and operating RAG-powered assistants that combine vector search over your knowledge sources with a large language model (LLM) for accurate, up-to-date responses.
@@ -202,3 +202,4 @@ If you’d like, I can:
 - Generate example scripts (ingest.py, index.py, app/main.py).
 - Create a Dockerfile, GitHub Actions CI, and a basic test suite.
 - Tailor the README with exact commands and config after I inspect the repository contents.
+
